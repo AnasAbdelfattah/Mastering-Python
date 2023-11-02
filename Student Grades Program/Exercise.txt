@@ -1,0 +1,15 @@
+                            ------------- EXERCISE -------------
+    
+     Write a program to read a list of students’ grades from the user and do the following:
+     
+        a. Check each element if it is a valid grade (valid range is from 0 to 100). For each grade, the program displays either Valid or Invalid. Count number of invalid grades.
+
+        b. Check each element if it is a valid grade (valid range is from 0 to 100). 
+            Produce a corresponding list (same size as the grades list) that has 1 or 0 in the same grade position;
+                 1 if the grade is valid and 0 if it is invalid. 
+
+        A grade list [90  -10  50   130  -2] will produce an output list [1  0  1  0  0]
+
+        c. Calculate and display the average grade.
+
+        d. Find and display the highest and lowest grades and specify their locations.

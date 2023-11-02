@@ -1,0 +1,6 @@
+                       --------------------- EXERCISE ---------------------
+                       
+write a python program that creates a dictionary containing the U.S.states as keys and their capitals as values .
+the program shall then randomly quiz the user by displaying the name of a state 
+and asking the user to enter that state's capital.
+the program shall keep a count of the number of correct and incorrect responses 
