@@ -1,0 +1,24 @@
+                --------------------     EXERCISES      --------------------
+
+1. Navy had a project with her colleagues, 
+   she waited until all team members attend and see if anyone brought the battery, 
+   otherwise she would bring it for them to start working. 
+    • you are not allowed to use loops 
+
+2.Engy went to a restaurant and ordered a soup and a main dish. 
+    menu is:
+        soup: vegetables(v), seafood, mushroom(v) 
+        meal: burger, grilled chicken, mashed potatoes(v).
+
+    If Engy had her all order vegetables we can tell she loves vegetables, 
+    if it had no vegetables at all we can tell she hates vegetables,
+    otherwise she would neither hate nor love it.
+
+3.Write a program to convert the weight from mg, Kg, Ton to Gram upon the user choice.
+    If the user enters a negative numbers, the program prints an error message (Invalid weight)
+    If the user enters a wrong selection, the program prints an error message (Invalid unit).
+    the program will end depend on the user 
+
+4.joy invited his friends to a party, he received many presents.
+    If anyone brought him something in his mind he will be over the moon,
+    and will send that friend a message to thank him. 
