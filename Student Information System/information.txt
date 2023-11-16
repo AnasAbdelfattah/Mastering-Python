@@ -1,0 +1,28 @@
+  --------------------------------- Student Information System ---------------------------------
+
+Create a Python program that manages information about students without using classes or file handling. Implement the following features:
+
+    Student Data:
+        Use lists to store information about students.
+         Each student should be represented as a dictionary with attributes like 
+         name , id, courses (a list of course names), and grades (a list of corresponding grades).
+
+
+    Functions:
+        Implement functions to:
+            Add a new student to the system.
+            Remove a student from the system based on their ID.
+            Display information about a specific student based on their ID.
+            Display a list of all students and their information.
+
+    Grades Calculation:
+        Implement a function to calculate the average grade for a student.
+
+    User Interface:
+        Create a simple command-line interface that allows the user to interact with the program. Include options to add a student, remove a student, display student information, display all students, and calculate the average grade for a specific student.
+
+    Data Validation:
+        Ensure that the user provides valid input when interacting with the program. For example, check if the user enters a valid grade when adding a student.
+
+    Documentation and Comments:
+        Provide clear documentation for your functions. Include comments where necessary to explain your code.
