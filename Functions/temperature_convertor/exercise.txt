@@ -1,0 +1,7 @@
+                         ---------------- EXERCISE ----------------
+
+Write a function that will receive as an input argument a temperature in degrees Fahrenheit,
+and will return the temperature in both degrees Celsius and Kelvin. 
+The conversion factors are C = (F – 32) * 5/9 and K = C + 273.15.
+Write a script (i.e. which is the scratch file as we know in Pycharm) to use the developed function. 
+The used function is in a separate script other than the main script, you should import it first.

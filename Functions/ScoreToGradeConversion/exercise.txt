@@ -1,0 +1,13 @@
+                         ---------------- EXERCISE ----------------
+
+Write a program that takes a list of students’ scores in an exam (stored in an array, i.e. list) 
+and computes their grades. (A >=90%,  90>B>=80, 80>C>=70, 70>D>=60, 60>F) and store them in an array.
+The program should make use of a function scoreToGrade which takes in one score 
+and returns the corresponding grade. import this separate script to your main script.
+ Note that in case that this script is your main script, use: 
+if __name__ == ‘main’: 
+
+
+Example: 
+Input:    	A= [74 82 41 55 68 98]    			
+Output:  	G= [C B F D C A]

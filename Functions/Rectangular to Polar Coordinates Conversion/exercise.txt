@@ -1,0 +1,6 @@
+                         ---------------- EXERCISE ----------------
+                         
+A vector can be represented by its rectangular coordinates x and y or by its polar coordinates r and theta.
+For positive values of x and y, the conversions from rectangular to polar coordinates in the range from 0 to 2 pi are r=sqrt(x^2+y^2) and theta=atan(y/x).
+Write a function recpol to receive as input arguments the rectangular coordinates and return the corresponding polar coordinates. 
+Write a script to use the developed function. Your function is written in another script file, so it needs to be imported.
