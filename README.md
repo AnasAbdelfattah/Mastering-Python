@@ -1,1 +1,1 @@
-##     ---------- This My Journey For Mastering Python ----------
+##     ---------- This is My Journey For Mastering Python ----------
